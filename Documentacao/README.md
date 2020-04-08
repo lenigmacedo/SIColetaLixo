@@ -1,0 +1,1 @@
+#Pasta destinada para postagem de documentos de engenharia relacionados ao projeto de coleta de lixo.
